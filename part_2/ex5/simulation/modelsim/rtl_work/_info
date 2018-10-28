@@ -1,0 +1,25 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\part_2\simulation\modelsim
+vcounter_8
+!i10b 1
+!s100 DE[bSXi^L1PTggCP;Sf?02
+Izz7nYg5LiYn>58aFoEB]=0
+Vdn7aTnOzPKdeZA;zmQ`Cl3
+Z1 dC:\part_2\simulation\modelsim
+w1511515949
+8C:/part_2/db/counter_8.v
+FC:/part_2/db/counter_8.v
+L0 6
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1511516711.558000
+!s107 C:/part_2/db/counter_8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/part_2/db|C:/part_2/db/counter_8.v|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+C:/part_2/db -O0

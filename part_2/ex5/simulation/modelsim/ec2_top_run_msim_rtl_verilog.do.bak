@@ -1,0 +1,9 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+//icnas2.cc.ic.ac.uk/bda16/Verilog\ Lab/part_2/db {//icnas2.cc.ic.ac.uk/bda16/Verilog Lab/part_2/db/counter_8.v}
+
